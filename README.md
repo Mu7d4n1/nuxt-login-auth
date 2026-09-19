@@ -55,5 +55,8 @@ Authentication uses H3 Session with an HTTP-only cookie.
 
 ## Installation
 
-```bash
+
 npm install
+
+##author
+Dendy Murdani 
